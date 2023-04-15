@@ -12,7 +12,7 @@ This is a weather dashboard that shows the weather for the next 5 days of whatev
 - [Questions](#questions)
 
 ## Installation
-Open the deployed web application.
+Open the deployed web application at https://honey8131.github.io/weather-dashboard/
 
 ## Usage
 1. Enter the name of a city in the search bar and click the search button.
