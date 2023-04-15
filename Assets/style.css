@@ -1,0 +1,98 @@
+:root {
+--baby-pink: rgb(247, 229, 235);
+--soft-gray: rgb(240, 240, 240);
+}
+
+header {
+    background-color: #140020;
+}
+
+div.title {
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+div.title h1 {
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+main.dashboard {
+    background-color: var(--soft-gray);
+}
+
+div.recent-searches h2 {
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+div.cityList {
+    margin-top: 20px;
+}
+
+div.city {
+    padding: 10px;
+}
+
+div.cityName {
+    background-color: white;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+div.currentWeather {
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+div.currentWeather h2, div.currentWeather h3 {
+    font-size: 1.3rem;
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.pl-2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span#uv-index {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+div.fiveDay h2 {
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+div.fiveDay p {
+    font-size: .8rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+div.fiveDay p.card-title {
+    font-weight: bold;
+    color: black;
+    font-family: 'Open Sans', sans-serif;;
+    background-color: var(--baby-pink);
+}
+
+
+.card {
+    color: rgb(241, 201, 201) !important;
+    font-family: 'Raleway', sans-serif;
+}
+
+.card-subtitle {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.btn {
+    background-color: var(--baby-pink);
+    border-style: none;
+    /* background: linear-gradient(white, rgb(247, 229, 235)); */
+}
+
+#search-btn {
+    color: #000120;
+}
